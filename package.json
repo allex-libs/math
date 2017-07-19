@@ -1,6 +1,6 @@
 {
   "name": "allex_mathlib",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Math allex lib",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.hers.rs:allex_libs/math.git"
+    "url": "git@github.com:allex-libs/math.git"
   },
   "keywords": [
     "allex",
